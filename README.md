@@ -1,4 +1,4 @@
-This is a BMI calculator made using Flutter and dart.
+**This is a BMI calculator made using Flutter and dart.
 This app takes the input of the user on the following parameters:
 
 *Gender
